@@ -1,0 +1,32 @@
+.Tarjeta-Datos{
+    
+    text-align: center;
+    border: 3px solid;
+    margin-top: 5px;
+    margin-right: 50vh;
+    margin-left: 50vh;
+    background-color: rgb(252, 252, 252);
+    }
+    .botonColor{
+        margin-top: 5px;
+    }
+
+   .botonEmoji{
+    text-align: center;
+    border: 5px solid;
+    margin-left: 50vh;
+    margin-right: 50vh;
+    margin-top: 5px
+   }
+   .Adivina{
+    text-align: center;
+    border: 5px solid;
+    margin-left: 50vh;
+    margin-right: 50vh;
+    background-color: rgb(247, 5, 5);
+    margin-top: 5px;
+   }
+   
+   .body,html{
+    background-color: rgb(255, 255, 255);
+   }
